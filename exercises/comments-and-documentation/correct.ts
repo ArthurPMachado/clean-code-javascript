@@ -1,4 +1,3 @@
-// Essa função tem o objetivo de registrar um novo usuário no banco.
 async function register(data) {
   const { email, name, avatar } = data
 
